@@ -2,7 +2,7 @@
 
 I'm an MSc Data Science student at the University of Aberdeen!
 
-I'm currently working on my thesis in collaboration with TotalEnergies.
+
 <!--
 **DavidJHale/DavidJHale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
