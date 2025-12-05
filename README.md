@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm an MSc Data Science student at the University of Aberdeen!
-
-
+I'm a recent MSc Data Science graduate from the University of Aberdeen, currently looking for data scientist/analyst/similar roles.
 <!--
 **DavidJHale/DavidJHale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
