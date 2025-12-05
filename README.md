@@ -1,11 +1,19 @@
 ## Hi there 👋
 
-I'm a recent MSc Data Science graduate from the University of Aberdeen, currently looking for data scientist/analyst/similar roles.
+I'm a recent MSc Data Science graduate from the University of Aberdeen, looking for data scientist/analyst/similar roles.
+
+I'm currently working on improving my skillset and building a portfolio of projects :)
+
+Email:
+davidhale2005@yahoo.co.uk
+
+Linkedin:
+https://www.linkedin.com/in/david-hale-05b8001b9/
 <!--
 **DavidJHale/DavidJHale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+I'm currently working on improving my skillset and building a portfolio of projects
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
